@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="https://github.com/gauribhardwaj/gauribhardwaj/blob/main/coding_ninja_baby_gauri.gif" alt="every master was once a disaster">
+	
 </div>
 
 
@@ -28,7 +28,7 @@
   <img align="left" alt="Anubhav's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/twitter.svg" />
 </a> 
 
-<img src="https://i.imgur.com/dk1IG72.gif" width="430" align='right'>
+<img src="https://github.com/gauribhardwaj/gauribhardwaj/blob/main/coding_ninja_baby_gauri.gif" alt="every master was once a disaster">
 
 <br/>
 
