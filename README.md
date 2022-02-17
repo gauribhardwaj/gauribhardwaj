@@ -1,12 +1,12 @@
 <div align="center">
-	<img src="https://github.com/gauribhardwaj/gauribhardwaj/blob/main/coding_ninja_baby_gauri.gif" alt="Hello. I'm Gauri. I like code. Thanks for reading.">
+	<img src="https://github.com/gauribhardwaj/gauribhardwaj/blob/main/coding_ninja_baby_gauri.gif" alt="every master was once a disaster">
 </div>
 
 
 
 
 
-<h1 align="center">Hi 👋, I'm Anubhav Madhav</h1>
+<h1 align="center">Hi 👋, I'm 	Gauri Bhardwaj</h1>
 <h3 align="center">An AI and AR Enthusiast and a Tech Explorer from India</h3>
 
 
