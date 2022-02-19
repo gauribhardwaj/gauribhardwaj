@@ -29,22 +29,7 @@
 
 <br/>
 
-- 🔭 I’m currently working on **Augmented Reality Projects**
-
-- 🌱 I’m currently learning **Machine Learning**
-
-- 🎻 My Personal Website [Anubhav Madhav](https://anubhavmadhav.github.io/Anubhav-Madhav/)
-
-- 💻 My Blog Website  [AM-Blogs](https://anubhav-madhav-blogs.herokuapp.com/)
-
-<!-- - 👯 I’m looking to collaborate on **developing a Deep Learning project** -->
-
-- 💬 Ask me about anything **I'm happy to help🤝**
-
-- 📫 How to reach me **anubhavmadhav20@gmail.com**
-
-- ⚡ Fun fact **We can grab a coffee☕️ while discussing Marvel Cinematic Universe🤓**
-------
+-
 <img src="https://github-readme-stats.vercel.app/api?username=AnubhavMadhav&show_icons=true&theme=blue-green&?count_private=true">
 <IMG SRC="https://github-readme-stats.vercel.app/api/top-langs/?username=AnubhavMadhav&theme=blue-green&&layout=compact">
   
