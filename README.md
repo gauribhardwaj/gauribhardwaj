@@ -30,7 +30,7 @@
 <br/>
 
 -
-<img src="https://github-readme-stats.vercel.app/api?username=AnubhavMadhav&show_icons=true&theme=blue-green&?count_private=true">
+<img src="https://github-readme-stats.vercel.app/api?username=GauriBhardwaj&show_icons=true&theme=blue-green&?count_private=true">
 <IMG SRC="https://github-readme-stats.vercel.app/api/top-langs/?username=AnubhavMadhav&theme=blue-green&&layout=compact">
   
 **Languages and Tools:**  
