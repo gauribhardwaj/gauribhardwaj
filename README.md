@@ -12,22 +12,17 @@
 <p align="center"> <img src=https://komarev.com/ghpvc/?username=AnubhavMadhav alt=AnubhavMadhav/> </p> 
 
 ------
-<a href="https://www.linkedin.com/in/anubhav-madhav/">
+<a href="https://www.linkedin.com/in/bhardwajgauri/">
   <img align="left" alt="Anubhav's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/anubhav_madhav/">
-  <img align="left" alt="Anubhav's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/profile.php?id=100004730176288">
-  <img align="left" alt="Anubhav's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" />
-</a> 
+
 <a href="https://twitter.com/Anubhav_Madhav">
   <img align="left" alt="Anubhav's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/twitter.svg" />
 </a> 
 
-<img src="https://github.com/gauribhardwaj/gauribhardwaj/blob/main/coding_ninja_baby_gauri.gif" alt="every master was once a disaster">
 
 <br/>
+<img src="https://github.com/gauribhardwaj/gauribhardwaj/blob/main/coding_ninja_baby_gauri.gif" alt="every master was once a disaster">
 
 -
 <img src="https://github-readme-stats.vercel.app/api?username=GauriBhardwaj&show_icons=true&theme=blue-green&?count_private=true">
